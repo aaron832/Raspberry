@@ -1,1 +1,5 @@
 .DS_Store
+*.o
+/PiGateway
+/PiGatewaySerial
+*.README.md.swp
